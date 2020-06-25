@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Dragory/modmailbot)](https://repl.it/github/Dragory/modmailbot)
 # Modmail for Discord
 Modmail Bot is a bot for [Discord](https://discordapp.com/) that allows users to DM the bot to contact the server's moderators/staff
 without messaging them individually or pinging them publically on the server.
